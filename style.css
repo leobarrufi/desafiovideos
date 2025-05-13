@@ -1,0 +1,288 @@
+
+
+    body {
+        background-image: linear-gradient(to top,#092d46,#1684ce);
+        background-attachment: fixed;
+
+
+}
+
+
+
+
+h1 {
+    color: aliceblue;
+        font-family: false;
+            font-style: italic;
+                text-align: center;
+                    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.568);
+
+}
+
+
+@font-face {
+    font-family: false ;
+        src: url(False.ttf)format(truetype);
+}
+
+
+div{ 
+    text-align: center;
+}
+
+
+.imagemum{
+transition: transform 0.8 ease;
+    border-radius: 25px;
+        box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.384);
+
+}
+
+.imagemum:hover{
+
+transform: scale(01.09);
+    transition-duration: 0.5s;
+        transition-delay: 0.1s;
+            box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.384);
+}
+
+
+.imagemdois{
+
+    border-radius: 25px;
+        transition: transform 0.8 ease;
+            box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.384);
+}
+    
+.imagemdois:hover{
+
+transform: scale(01.09);
+    transition-duration: 0.5s;
+        transition-delay: 0.1s;
+            box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.384);
+
+}
+
+.imagemtres{
+border-radius: 25px;
+    transition: transform 0.8 ease;
+        box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.384);
+
+}
+.imagemtres:hover{
+
+transform: scale(01.09);
+    transition-duration: 0.5s;
+        transition-delay: 0.1s;
+            box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.384);
+
+}
+
+.imagemquatro{
+
+    border-radius: 25px;
+        transition:transform 0.08 ease;
+            box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.384);
+
+
+}
+
+.imagemquatro:hover{
+
+    transform:scale(01.09);
+        transition-duration: 0.5s;
+            transition-delay: 0.1s;
+                box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.384);
+}
+
+
+.imagemcinco{
+
+border-radius: 25px;
+    transition: transform 0.8 ease;
+        box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.384);
+}
+
+
+.imagemcinco:hover{
+transition-duration: 0.5s;
+    transition-delay: 0.1s;
+     transform: scale(01.09);
+        box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.384);
+
+}
+
+.imagemseis{
+border-radius: 25px;
+    transition: transform 0.8 ease;
+        box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.384);
+
+}
+
+
+.imagemseis:hover{
+
+transform: scale(01.09);
+    transition-delay: 0.1s;
+        transition-duration: 0.5s;
+            box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.384);
+
+}
+
+.imagemsete{
+    border-radius: 25px;
+        transition: transform 0.8 ease;
+            box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.384);
+}
+
+
+.imagemsete:hover{
+
+    transform: scale(01.09);
+        transition-duration: 0.5s;
+            transition-delay: 0.1s;
+                box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.384);
+}
+
+.imagemoito{
+
+border-radius: 25px;
+transition: transform 0.8 ease;
+box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.384);
+
+}
+
+
+.imagemoito:hover{
+
+transform: scale(01.09);
+transition-duration: 0.5s;
+transition-delay: 0.1s;
+box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.384);
+
+}
+
+
+.imagemnove{
+border-radius: 25px;
+transition: transform 0.8 ease;
+box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.384);
+}
+
+.imagemnove:hover{
+transform: scale(01.09);
+transition-duration: 0.5s;
+transition-delay: 0.1s;
+box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.384);
+
+}
+
+.imagemdez{
+border-radius: 25px;
+transition: transform 0.8 ease;
+box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.384);
+}
+
+.imagemdez:hover{
+transform: scale(01.09);
+transition-duration: 0.5s;
+transition-delay: 0.1s;
+box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.384);
+
+}
+
+.top-bar{
+background-image: linear-gradient(to top,#0c456b86, #1577b8c5);
+
+
+color: white;
+display: flex;
+align-items: center;
+padding: 20px 20px;
+font-size:16px;
+font-family: Arial, Helvetica, sans-serif;
+position: relative;
+
+top: 0;
+width: 100%;
+margin: 0%;
+box-shadow: 1px 1px 5px rgb(0, 0, 0);
+
+}
+
+.top-bar div{
+
+flex: 1;
+text-align: center;
+padding: 0px;
+margin: 0px;
+}
+
+.left >a{
+                color: white;
+                    text-decoration: none;
+                        font-size: 19px;
+                            text-shadow: 1px 1px 1px black;
+
+}
+
+
+.dois >a{
+
+                color: white;
+                     text-decoration: none;
+                         font-size: 19px;
+                            text-shadow: 1px 1px 1px black;
+}
+
+.right >a{
+
+                color: white;
+                text-decoration: none;
+                font-size: 19px;
+                text-shadow: 1px 1px 1px black;
+}
+
+.left >a:hover{
+
+background-color: rgba(0, 162, 255, 0.336);
+padding: 10px;
+border-radius: 15px;
+
+            transform: scale(01.09);
+                transition-duration: 0.5s;
+                    transition-delay: 0.1s;
+
+}
+  .dois >a:hover{
+
+    background-color: rgba(0, 162, 255, 0.336);
+    padding: 10px;
+    border-radius: 15px;
+    
+
+             transform: scale(01.09);
+                transition-duration: 0.5s;
+                    transition-delay: 0.1s;
+  }
+
+ .right >a:hover{
+    background-color: rgba(0, 162, 255, 0.336);
+    padding: 10px;
+    border-radius: 15px;
+    transition-delay: 0.5s;
+transition: ease-in-out;
+
+
+                transform: scale(01.09);
+                    transition-duration: 0.5s;
+                        transition-delay: 0.1s;
+}
+
+
+
+
+
+body{
+margin: 0;
+}

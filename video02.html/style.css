@@ -1,0 +1,89 @@
+body {
+    background-image: linear-gradient(to top,#092d46,#1684ce);
+    background-attachment: fixed;
+
+
+
+}
+
+
+
+@font-face {
+    font-family:False;
+    src: url(False.ttf)format(truetype);
+
+}
+
+@font-face{
+    font-family: sporta;
+    src:url(Sporta.ttf) format(truetype)
+  }    
+
+iframe{
+border-radius: 20px;
+border-width: 5px;
+border-color: black;
+border-style: solid;
+
+}
+
+
+
+
+
+.assista{
+   font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    border-radius: 10px;
+    border-left: 25px;
+    border-right: 20px;
+    padding: 6px;
+    
+    display: inline-block;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.548);
+}
+
+.assista:hover{
+color: #00eeff93;
+transition-duration: 0.5s;
+transition-timing-function: 0.3;
+transition-delay: 0.3s;
+
+
+}
+
+
+
+h1 {color: aliceblue;
+    font-family: False;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.589);
+
+
+}
+
+h3{
+font-family: Arial, Helvetica, sans-serif;
+
+margin: 45px;
+    color: white;
+background-color: rgba(0, 0, 0, 0.548);
+border-radius: 25px;
+font-size: 20px;
+padding: 4px;
+display: inline;
+
+}
+
+
+img:hover{
+
+transform: scale(1.09);
+transition-duration: 0.5s;
+transition-delay:0.3s;
+}
+
+.sugestao >img{
+
+    text-align: center;
+}

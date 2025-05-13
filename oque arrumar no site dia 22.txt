@@ -1,0 +1,28 @@
+Oque arrumar no site - Dia 22/03/2025
+
+- Arrumar a cor de fundo do site, Definir uma paleta de cores no adobe color 
+- colocar borda em volta dos videos 
+- Colocar sombra nos textos 
+- colocar mais videos nos video viralizados 
+- criar pagina para cada video de viralizados
+- colocar videos no algumas sugestões
+- colocar algumas sugestões em todas as abas
+- Mudar a fonte do assista outros videos
+- Arruamr o hover dos botoes
+- colocar os links nos botoes
+- alterar a cor do rodapé
+- colocar um transition de zoon nos botoes e deixar o background-color em border-radius 
+
+
+
+ *feito*
+
+- Arrumar a imagem de má qualidade do site - ok 
+
+- Colocar um botão bonito para voltar, se não achar nenhum, fazer o texto se tornar um link - ok
+
+- colcoar borda nos assista outros videos
+
+- Arrumar o botão de voltar que está bugado dos lados 
+
+- Arrumar bug do rodapé

@@ -1,0 +1,75 @@
+
+@font-face {
+    font-family: False;
+    src: url(False.ttf) format(truetype);
+}
+
+@font-face{
+    font-family: sporta;
+    src:url(Sporta.ttf) format(truetype)
+        }
+
+
+body{
+background-image: linear-gradient(to top,#092d46,#1684ce);
+background-attachment: fixed;
+
+
+}
+
+iframe{
+
+    border-radius: 20px;
+    text-align: center;
+border-width: 5px;
+border-style: solid;
+border-color: black;
+
+}
+
+
+
+h1{
+color: #ffffff;
+    font-family: False;
+text-align: center;
+text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.589);
+
+}
+h3{
+font-family: Arial, Helvetica, sans-serif;
+color: #ffffff;
+text-align: center;
+
+display: inline-block;
+border-radius:10px;
+border-left: 25px;
+border-right: 20px;
+padding: 6px;
+font-size: 20px;
+
+background-color: rgba(0, 0, 0, 0.548);
+
+
+
+}
+div.hover >h3:hover{
+
+    color:  #00eeff93;
+   transition-duration: 0.5s;
+   transition-delay: 0.3s;
+}
+
+h3{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+border-radius: 10px;
+margin: 45px;
+display: inline;
+background-color: rgba(0, 0, 0, 0.548);
+color: white;
+
+
+}
+
+
