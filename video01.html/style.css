@@ -1,58 +1,94 @@
+*{
+    padding: 0%;
+    margin: 0px;
+}
+
 body {
     background-image: linear-gradient(to top,#092d46,#1684ce);
     background-attachment: fixed;
 }
 
-
 .top-bar{
 
-    background-image: linear-gradient(to top,#0c456b86, #1577b8c5);
-        color: white;
-        display: flex;
-        align-items: center;
-        padding: 20px 20px;
-        font-size: 16px;
-        font-family: Arial, Helvetica, sans-serif;
+        background-image: linear-gradient(to top,#0c456b86, #1577b8c5);
+        color: white;   
+        padding: 20px 20px;       
         position: relative;
         top: 0;
         width: 100%;
         margin: 0%;
-        box-shadow: 1px 1px 5px rgb(0, 0, 0);
+        box-shadow: 1px 1px 1.5px rgb(0, 0, 0);
+        margin-bottom: 10px;
+        max-width: 97%;
+}
+section { 
+        font-family: Arial, Helvetica, sans-serif;       
+        display: flex;  
+        font-size: 16px;
+        gap: 39%;
+        margin-left: 10px;
+        padding: 0px;
+        
+        }
+.um > a{
+        text-decoration: none;
+        color: white;
+        
+        
+}
+.dois > a{
+        text-decoration: none;
+        color: white;
+}
 
+.tres > a{
+        text-decoration: none;
+        color: white;
+}
 
+.um > a:hover { 
+        background-color: rgba(0, 81, 255, 0.452);
+        padding: 5px;
+        
 
 }
 
+.dois > a:hover { 
 
+        background-color: rgba(0, 81, 255, 0.452);
+        padding: 5px;
+        
+}
 
+.tres > a:hover { 
+        background-color: rgba(0, 81, 255, 0.452);
+        padding: 5px;
+
+}
 
 h1 {
-    color: rgb(255, 255, 255);
-  font-family: False;
-
-
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.589);
+     color: rgb(255, 255, 255);
+     font-family: False;
+     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.589);
 }
-
-
 
 h3 {
     color: aliceblue;
-font-family: Arial, Helvetica, sans-serif;
-box-shadow: 5px,5px,10px black;
-border-radius:10px;
-border-left: 25px;
-border-right: 20px;
-padding: 3px;
-display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 5px,5px,10px black;
+    border-radius:10px;
+    border-left: 25px;
+    border-right: 20px;
+    padding: 3px;
+    display: inline-block;
 
-   background-color: rgba(0, 0, 0, 0.548);
+   background-color: rgba(199, 46, 46, 0.548);
 }
 iframe{
-border-width: 5px;
-border-radius: 20px;
-border-style: solid;
-border-color: black;
+    border-width: 5px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
 }
 div.numero{
     color: aliceblue;
@@ -65,16 +101,14 @@ div.numero{
     display: inline-block;
     font-size: 20px;
     font-weight: normal;
-       background-color: rgba(0, 0, 0, 0.548);
-       
-
-
+    background-color: rgba(0, 0, 0, 0.548);
 }
+
 div.numero:hover{
     color: #00eeff93;
     transition-delay: 0.5s;
     transition-timing-function: ease;
-   transition-duration: 0.3s;
+    transition-duration: 0.3s;
     }
 @font-face {
     font-family: False;
@@ -88,8 +122,7 @@ src:url(Sporta.ttf) format(truetype)
 }
 
 h3#div{
-   
-  margin: 45px;
+    margin: 45px;
     color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
     
@@ -99,28 +132,23 @@ h3#div{
     padding: 4px;
     display: inline;
     font-size: 20px;
-       background-color: rgba(0, 0, 0, 0.548);
+    background-color: rgba(0, 0, 0, 0.548);
 
 }
 img{
 
     border-radius: 15px;
-font-size: 20px;
-
+    font-size: 20px;
 }
 
 img:hover{
 
-transform: scale(01.09) ;
-transition-delay: 0.1s;
-transition: ease-in-out;
-transition-duration: 0.5s;
-
-
-
-
-
+    transform: scale(01.09) ;
+    transition-delay: 0.1s;
+    transition: ease-in-out;
+    transition-duration: 0.5s;
 }
+
 div.movimento{
 
     text-align: center;
